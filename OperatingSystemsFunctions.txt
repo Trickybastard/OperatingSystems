@@ -1,1 +1,2 @@
 
+Device management- Manages all device communications with the help of drivers. It keeps track of all devices currently running and on communicating with the machine, the program that does this is called the "I/O controller." Device management also decides which process gets control of device and how much resources and time it gets.
