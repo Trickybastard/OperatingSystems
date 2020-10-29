@@ -1,4 +1,6 @@
 
 Device management- Manages all device communications with the help of drivers. It keeps track of all devices currently running and on communicating with the machine, the program that does this is called the "I/O controller." Device management also decides which process gets control of device and how much resources and time it gets.
 
-File manager- File manager is a default file browser typically organized into directories for easy naviagtion and use. These directors will usually contain everything from files to applications. The file manager helps to keep track of information.
+File manager- File manager is a default file browser typically organized into directories for easy naviagtion and use. These directories will usually contain everything from files to applications. The file manager helps to keep track of information.
+
+Memory Management- The operating system manages the primary memory of a computer. Main or primary memory is a temporay, volatile and very fast storage. The primary memory clears itself after shutting of the computer. For a program to be executed it should first be loaded into the primary memory.
